@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\programming_con\month\bin\Debug\netcoreapp3.1\month.exe
+C:\Users\Rameshwar kale\programming_con\month\bin\Debug\netcoreapp3.1\month.deps.json
+C:\Users\Rameshwar kale\programming_con\month\bin\Debug\netcoreapp3.1\month.runtimeconfig.json
+C:\Users\Rameshwar kale\programming_con\month\bin\Debug\netcoreapp3.1\month.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\programming_con\month\bin\Debug\netcoreapp3.1\month.dll
+C:\Users\Rameshwar kale\programming_con\month\bin\Debug\netcoreapp3.1\month.pdb
+C:\Users\Rameshwar kale\programming_con\month\obj\Debug\netcoreapp3.1\month.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\programming_con\month\obj\Debug\netcoreapp3.1\month.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\programming_con\month\obj\Debug\netcoreapp3.1\month.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\programming_con\month\obj\Debug\netcoreapp3.1\month.AssemblyInfo.cs
+C:\Users\Rameshwar kale\programming_con\month\obj\Debug\netcoreapp3.1\month.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\programming_con\month\obj\Debug\netcoreapp3.1\month.dll
+C:\Users\Rameshwar kale\programming_con\month\obj\Debug\netcoreapp3.1\month.pdb
+C:\Users\Rameshwar kale\programming_con\month\obj\Debug\netcoreapp3.1\month.genruntimeconfig.cache

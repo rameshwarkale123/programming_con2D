@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\programming_con\Arithmatics\bin\Debug\netcoreapp3.1\Arithmatics.exe
+C:\Users\Rameshwar kale\programming_con\Arithmatics\bin\Debug\netcoreapp3.1\Arithmatics.deps.json
+C:\Users\Rameshwar kale\programming_con\Arithmatics\bin\Debug\netcoreapp3.1\Arithmatics.runtimeconfig.json
+C:\Users\Rameshwar kale\programming_con\Arithmatics\bin\Debug\netcoreapp3.1\Arithmatics.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\programming_con\Arithmatics\bin\Debug\netcoreapp3.1\Arithmatics.dll
+C:\Users\Rameshwar kale\programming_con\Arithmatics\bin\Debug\netcoreapp3.1\Arithmatics.pdb
+C:\Users\Rameshwar kale\programming_con\Arithmatics\obj\Debug\netcoreapp3.1\Arithmatics.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\programming_con\Arithmatics\obj\Debug\netcoreapp3.1\Arithmatics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\programming_con\Arithmatics\obj\Debug\netcoreapp3.1\Arithmatics.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\programming_con\Arithmatics\obj\Debug\netcoreapp3.1\Arithmatics.AssemblyInfo.cs
+C:\Users\Rameshwar kale\programming_con\Arithmatics\obj\Debug\netcoreapp3.1\Arithmatics.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\programming_con\Arithmatics\obj\Debug\netcoreapp3.1\Arithmatics.dll
+C:\Users\Rameshwar kale\programming_con\Arithmatics\obj\Debug\netcoreapp3.1\Arithmatics.pdb
+C:\Users\Rameshwar kale\programming_con\Arithmatics\obj\Debug\netcoreapp3.1\Arithmatics.genruntimeconfig.cache

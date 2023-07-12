@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\programming_con\cating_vote\bin\Debug\netcoreapp3.1\cating_vote.exe
+C:\Users\Rameshwar kale\programming_con\cating_vote\bin\Debug\netcoreapp3.1\cating_vote.deps.json
+C:\Users\Rameshwar kale\programming_con\cating_vote\bin\Debug\netcoreapp3.1\cating_vote.runtimeconfig.json
+C:\Users\Rameshwar kale\programming_con\cating_vote\bin\Debug\netcoreapp3.1\cating_vote.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\programming_con\cating_vote\bin\Debug\netcoreapp3.1\cating_vote.dll
+C:\Users\Rameshwar kale\programming_con\cating_vote\bin\Debug\netcoreapp3.1\cating_vote.pdb
+C:\Users\Rameshwar kale\programming_con\cating_vote\obj\Debug\netcoreapp3.1\cating_vote.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\programming_con\cating_vote\obj\Debug\netcoreapp3.1\cating_vote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\programming_con\cating_vote\obj\Debug\netcoreapp3.1\cating_vote.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\programming_con\cating_vote\obj\Debug\netcoreapp3.1\cating_vote.AssemblyInfo.cs
+C:\Users\Rameshwar kale\programming_con\cating_vote\obj\Debug\netcoreapp3.1\cating_vote.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\programming_con\cating_vote\obj\Debug\netcoreapp3.1\cating_vote.dll
+C:\Users\Rameshwar kale\programming_con\cating_vote\obj\Debug\netcoreapp3.1\cating_vote.pdb
+C:\Users\Rameshwar kale\programming_con\cating_vote\obj\Debug\netcoreapp3.1\cating_vote.genruntimeconfig.cache

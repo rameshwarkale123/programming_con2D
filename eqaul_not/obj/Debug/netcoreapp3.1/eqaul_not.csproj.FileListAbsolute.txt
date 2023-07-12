@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\programming_con\eqaul_not\bin\Debug\netcoreapp3.1\eqaul_not.exe
+C:\Users\Rameshwar kale\programming_con\eqaul_not\bin\Debug\netcoreapp3.1\eqaul_not.deps.json
+C:\Users\Rameshwar kale\programming_con\eqaul_not\bin\Debug\netcoreapp3.1\eqaul_not.runtimeconfig.json
+C:\Users\Rameshwar kale\programming_con\eqaul_not\bin\Debug\netcoreapp3.1\eqaul_not.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\programming_con\eqaul_not\bin\Debug\netcoreapp3.1\eqaul_not.dll
+C:\Users\Rameshwar kale\programming_con\eqaul_not\bin\Debug\netcoreapp3.1\eqaul_not.pdb
+C:\Users\Rameshwar kale\programming_con\eqaul_not\obj\Debug\netcoreapp3.1\eqaul_not.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\programming_con\eqaul_not\obj\Debug\netcoreapp3.1\eqaul_not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\programming_con\eqaul_not\obj\Debug\netcoreapp3.1\eqaul_not.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\programming_con\eqaul_not\obj\Debug\netcoreapp3.1\eqaul_not.AssemblyInfo.cs
+C:\Users\Rameshwar kale\programming_con\eqaul_not\obj\Debug\netcoreapp3.1\eqaul_not.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\programming_con\eqaul_not\obj\Debug\netcoreapp3.1\eqaul_not.dll
+C:\Users\Rameshwar kale\programming_con\eqaul_not\obj\Debug\netcoreapp3.1\eqaul_not.pdb
+C:\Users\Rameshwar kale\programming_con\eqaul_not\obj\Debug\netcoreapp3.1\eqaul_not.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\programming_con\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\programming_con\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\programming_con\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\programming_con\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfo.cs
+C:\Users\Rameshwar kale\programming_con\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\programming_con\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.exe
+C:\Users\Rameshwar kale\programming_con\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.deps.json
+C:\Users\Rameshwar kale\programming_con\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.json
+C:\Users\Rameshwar kale\programming_con\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\programming_con\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.dll
+C:\Users\Rameshwar kale\programming_con\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.pdb
+C:\Users\Rameshwar kale\programming_con\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
+C:\Users\Rameshwar kale\programming_con\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
+C:\Users\Rameshwar kale\programming_con\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache

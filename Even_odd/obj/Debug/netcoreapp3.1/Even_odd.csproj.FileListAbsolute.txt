@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\programming_con\Even_odd\bin\Debug\netcoreapp3.1\Even_odd.exe
+C:\Users\Rameshwar kale\programming_con\Even_odd\bin\Debug\netcoreapp3.1\Even_odd.deps.json
+C:\Users\Rameshwar kale\programming_con\Even_odd\bin\Debug\netcoreapp3.1\Even_odd.runtimeconfig.json
+C:\Users\Rameshwar kale\programming_con\Even_odd\bin\Debug\netcoreapp3.1\Even_odd.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\programming_con\Even_odd\bin\Debug\netcoreapp3.1\Even_odd.dll
+C:\Users\Rameshwar kale\programming_con\Even_odd\bin\Debug\netcoreapp3.1\Even_odd.pdb
+C:\Users\Rameshwar kale\programming_con\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\programming_con\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\programming_con\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\programming_con\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.AssemblyInfo.cs
+C:\Users\Rameshwar kale\programming_con\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\programming_con\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.dll
+C:\Users\Rameshwar kale\programming_con\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.pdb
+C:\Users\Rameshwar kale\programming_con\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.genruntimeconfig.cache

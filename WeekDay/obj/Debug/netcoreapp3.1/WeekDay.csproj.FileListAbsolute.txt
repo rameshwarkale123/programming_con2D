@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\programming_con\WeekDay\bin\Debug\netcoreapp3.1\WeekDay.exe
+C:\Users\Rameshwar kale\programming_con\WeekDay\bin\Debug\netcoreapp3.1\WeekDay.deps.json
+C:\Users\Rameshwar kale\programming_con\WeekDay\bin\Debug\netcoreapp3.1\WeekDay.runtimeconfig.json
+C:\Users\Rameshwar kale\programming_con\WeekDay\bin\Debug\netcoreapp3.1\WeekDay.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\programming_con\WeekDay\bin\Debug\netcoreapp3.1\WeekDay.dll
+C:\Users\Rameshwar kale\programming_con\WeekDay\bin\Debug\netcoreapp3.1\WeekDay.pdb
+C:\Users\Rameshwar kale\programming_con\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\programming_con\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\programming_con\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\programming_con\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.AssemblyInfo.cs
+C:\Users\Rameshwar kale\programming_con\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\programming_con\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.dll
+C:\Users\Rameshwar kale\programming_con\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.pdb
+C:\Users\Rameshwar kale\programming_con\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.genruntimeconfig.cache
